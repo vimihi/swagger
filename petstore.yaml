@@ -5,7 +5,7 @@ host: api.instagram.com
 basePath: /v1
 info:
   contact:
-    name: Instagram
+    name: Instagram Vimihi
     url: 'https://instagram.com/developer/support'
     x-twitter: instagram
   description: |
@@ -40,7 +40,7 @@ info:
   x-unofficialSpec: true
   x-code-samples:
     lang: JavaScript
-    source: console.log('vimihi');
+    source: console.log('vimihii');
   x-examples: true
 externalDocs:
   description: Instagram Developer Documentation

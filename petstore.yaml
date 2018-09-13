@@ -38,7 +38,9 @@ info:
   x-preferred: true
   x-providerName: instagram.com
   x-unofficialSpec: true
-  x-code-samples: true
+  x-code-samples:
+    lang: JavaScript
+    source: console.log('vimihi');
   x-examples: true
 externalDocs:
   description: Instagram Developer Documentation
